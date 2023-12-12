@@ -1,5 +1,4 @@
-![logo](https://github.com/MuhammadYousuf88/MuhammadYousuf88/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.jpg)
-
+![logo](https://github.com/MuhammadYousuf88/MuhammadYousuf88/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Yousuf</h1>
 <h3 align="center">The passionate Web & App Developer from Pakistan</h3>
 
